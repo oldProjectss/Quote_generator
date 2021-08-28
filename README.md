@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+![](https://img.shields.io/badge/-IsmailCo-blueviolet)
 
 # Random Quote Generator
 
@@ -16,13 +16,11 @@
 
 [Live Demo Link](https://livedemo.com)
 
-
 ## Getting Started
 
 ### Usage
 
 > This is a web app, you can test it in your Browser!
-
 
 ## Authors
 
