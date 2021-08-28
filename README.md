@@ -26,9 +26,9 @@
 
 👤 **IsmailCo**
 
-- GitHub: [@githubhandle](https://github.com/ismailco)
-- Twitter: [@twitterhandle](https://twitter.com/ismailcourr)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/ismailcourr)
+- [Github](https://github.com/ismailco)
+- [Twitter](https://twitter.com/ismailcourr)
+- [LinkedIn](https://linkedin.com/in/ismailcourr)
 
 ## 🤝 Contributing
 
