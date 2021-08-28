@@ -1,3 +1,8 @@
+@font-face {
+  font-family: Vegan;
+  src: url(./VeganStyle.ttf);
+}
+
 * {
   padding: 0;
   margin: 0;
@@ -7,4 +12,45 @@
 body {
   background-color: rgb(179, 114, 240);
   font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  height: 60vh;
+}
+
+.quoteBody {
+  height: 200px;
+}
+
+.quote {
+  margin-top: 100px;
+  padding: 20px;
+  font-size: 2em;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: 700;
+}
+
+.quoteAuthor {
+  text-align: right !important;
+  margin-right: 30px;
+  font-style: italic;
+}
+
+.btn {
+  margin-top: 100px;
+  padding: 10px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 1.5em;
+  border-radius: 20px;
+  border: solid 1px blanchedalmond;
+  background-color: rgb(41, 143, 226);
+  transition: background-color 400ms ease;
+}
+
+.btn:hover {
+  background-color: rgb(41, 143, 226);
+}
+
+.btn:active {
+  border: solid 2px blanchedalmond;
+  outline: none;
 }
