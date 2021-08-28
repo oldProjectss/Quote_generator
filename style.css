@@ -18,12 +18,14 @@ body {
 
 .quoteBody {
   height: 200px;
+  margin-top: 100px;
 }
 
 .quote {
-  margin-top: 100px;
   padding: 20px;
   font-size: 2em;
+  /* letter-spacing: 0.1em; */
+  line-height: 1.5em;
   font-family: Georgia, "Times New Roman", Times, serif;
   font-weight: 700;
 }
