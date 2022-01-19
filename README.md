@@ -4,20 +4,17 @@
 
 > This is a random quote generator that generate random quotes from the web.
 
-![screenshot](./app_screenshot.png)
-
 ## Built With
 
 - HTML
 - CSS
 - JavaScript
 
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
 ## Getting Started
 
+- copy the repo URL
+- $ git clone (repo URL)
+- 
 ### Usage
 
 > This is a web app, you can test it in your Browser!
